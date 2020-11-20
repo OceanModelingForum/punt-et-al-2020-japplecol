@@ -1,0 +1,21 @@
+Type of control rule                       1                           # 0 is PBR; 1 is DCAC; 2 is RY; 3 is slope
+PBR
+Percentile multiplier                   0.842
+FR for PBR                              1.000
+Rmax assumed                            0.040
+DCAC
+Percentile multiplier                   0.16700
+Number of simulations                    1000
+Lower bound M                           0.050
+Upper bound M                           0.100
+RY
+Percentile multiplier                   0.000
+Number of simulations                   10000
+SLOPE
+Percentile multiplier                   0.000
+PERFECT
+FRRevised                               0.000
+
+
+
+1234567890123456789012345678901234567890
